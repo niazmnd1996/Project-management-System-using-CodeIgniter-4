@@ -1,0 +1,1 @@
+This project is about Project management in which user can manage his/her project and tasks. I used CodeIgniter-4(PHP framework) to build this project.
